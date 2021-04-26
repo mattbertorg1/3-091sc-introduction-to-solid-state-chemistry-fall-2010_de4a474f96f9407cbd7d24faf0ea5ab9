@@ -1,0 +1,12 @@
+---
+course_id: 3-091sc-introduction-to-solid-state-chemistry-fall-2010
+description: This resource contains information related to reaction rates.
+file_location: /coursemedia/3-091sc-introduction-to-solid-state-chemistry-fall-2010/76b205385820149e6cd13b74c33fc2e0_MIT3_091SCF09_lec23.pdf
+file_type: application/pdf
+layout: pdf
+title: MIT3_091SCF09_lec23.pdf
+type: course
+uid: 76b205385820149e6cd13b74c33fc2e0
+
+---
+None
